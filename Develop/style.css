@@ -1,0 +1,56 @@
+
+
+body{
+    background-color: #dcedc1;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+
+.jumbotron{
+    background-color: #a8e6cf;
+    padding: 1rem 1rem;
+    border-bottom: solid;
+    border-color: #ffd3b6;
+    box-shadow: 0px 4px 7px 0px #aaaaaa;
+}
+
+.text-center{
+    font-weight: 700;
+    color: white;
+}
+
+.card{
+    margin: 5px;
+    border: solid;
+    border-color: white;
+    box-shadow: 5px 4px 4px 0px #aaaaaa
+}
+
+h2{
+    font-weight: 600;
+} 
+
+h3{
+    font-weight: 300;
+    font-size: 24px;
+}   
+
+a{
+    color: mediumpurple;
+    text-shadow: 5px 4px 4px 0px #aaaaaa
+}
+.card-title{
+    color: white;
+}
+
+.card-header{
+    background-color: #ffaaa5;
+}
+
+.card-body {
+       background-color: #ffd3b6;
+}
+
+.list-group-item {
+    background-color: #ffd3b6;
+    color: white;
+}
